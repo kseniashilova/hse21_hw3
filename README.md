@@ -1,4 +1,16 @@
 # hse21_hw3
 HomeWork 3. Bioinformatics course
 
-Ссылка на ноутбук в коллабе: https://colab.research.google.com/drive/1AvJfLS-Jz2gpTM8TweKjbZ9hyObwiOt5#scrollTo=b23N89JW4Eeg 
+Ссылка на ноутбук в коллабе 1: https://colab.research.google.com/drive/1AvJfLS-Jz2gpTM8TweKjbZ9hyObwiOt5#scrollTo=b23N89JW4Eeg 
+Ссылка на ноутбук в коллабе 2 (статистика): https://colab.research.google.com/drive/1ImQwgFKvasfDdv-KHnE4OusgbjAxcR8u 
+
+## Выравнивание RNA-seq чтений на геном мыши
+##### Отчет по multiqc
+##### Общее число чтений, соответствующих хотя бы одному гену (для 6-ти образцов)
+##### Вид таблицы ALL.counts - [ссылка на нее]
+##### Дополнительный файл ALL.info
+
+## Поиск генов, которые значимо поменяли свою экспрессию
+##### MA-plot
+##### Тепловая карта, которая показывает, что все контрольные образцы похожи между собой, а перепрограммированные образцы -- между собой
+##### Для нескольких генов, которые наиболее значимо поменяли свою экспрессию -- графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах
