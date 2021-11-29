@@ -23,6 +23,8 @@ HomeWork 3. Bioinformatics course
 ![all counts](https://github.com/kseniashilova/hse21_hw3/blob/main/pictures/all_counts.PNG)
 ### Дополнительный файл ALL.info
 ![all info](https://github.com/kseniashilova/hse21_hw3/blob/main/pictures/all_info.PNG)
+## Таблица со всеми пунктами из файлов hisat и из посчитанных значений
+![overall table](https://github.com/kseniashilova/hse21_hw3/blob/main/data/table.PNG)
 
 ## Поиск генов, которые значимо поменяли свою экспрессию
 ### MA-plot
